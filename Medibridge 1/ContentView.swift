@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var isShowingLogin = false
+    @State private var isShowingConditions = false
     
     var body: some View {
         NavigationView {
@@ -84,8 +84,8 @@ struct ContentView: View {
             
             //Action
             NavigationLink(
-                destination: LoginView(),
-                isActive: $isShowingLogin,
+                destination: ConditionsPageView(),
+                isActive: $isShowingConditions,
                 label: {
                     Text("Get Started")
                         .font(Font.custom("SF Pro Text", size: 17).weight(.semibold))

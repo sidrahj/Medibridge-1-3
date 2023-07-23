@@ -16,6 +16,7 @@
 		364C118D2A5B3C4000A092BF /* Medibridge_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 364C118C2A5B3C4000A092BF /* Medibridge_1UITestsLaunchTests.swift */; };
 		365A15652A62C7F500761F85 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365A15642A62C7F500761F85 /* LoginView.swift */; };
 		36BD0C182A65504F00729D8E /* Home2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD0C172A65504F00729D8E /* Home2View.swift */; };
+		36C5B7C12A6BFA5000F41517 /* ConditionsPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C5B7C02A6BFA5000F41517 /* ConditionsPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		364C118C2A5B3C4000A092BF /* Medibridge_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medibridge_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		365A15642A62C7F500761F85 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		36BD0C172A65504F00729D8E /* Home2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home2View.swift; sourceTree = "<group>"; };
+		36C5B7C02A6BFA5000F41517 /* ConditionsPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionsPageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				364C116F2A5B3C3F00A092BF /* Medibridge_1App.swift */,
 				364C11712A5B3C3F00A092BF /* ContentView.swift */,
+				36C5B7C02A6BFA5000F41517 /* ConditionsPageView.swift */,
 				365A15642A62C7F500761F85 /* LoginView.swift */,
 				36BD0C172A65504F00729D8E /* Home2View.swift */,
 				364C11732A5B3C4000A092BF /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				36BD0C182A65504F00729D8E /* Home2View.swift in Sources */,
 				364C11722A5B3C3F00A092BF /* ContentView.swift in Sources */,
 				364C11702A5B3C3F00A092BF /* Medibridge_1App.swift in Sources */,
+				36C5B7C12A6BFA5000F41517 /* ConditionsPageView.swift in Sources */,
 				365A15652A62C7F500761F85 /* LoginView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
